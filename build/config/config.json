@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6D739cF00d55F10dc51f57E8e9Ad328EA5a1AbEc",
+  "SCAN_LINK": "https://testnet.ftmscan.com/address/0x6d739cf00d55f10dc51f57e8e9ad328ea5a1abec",
+  "NETWORK": {
+    "NAME": "Fantom testnet",
+    "SYMBOL": "FTM",
+    "ID": 4002
+  },
+  "NFT_NAME": "TestDoodledLlama",
+  "SYMBOL": "TestDL",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "ARTION",
+  "MARKETPLACE_LINK": "https://artion.io/explore?collections=0x6D739cF00d55F10dc51f57E8e9Ad328EA5a1AbEc",
+  "SHOW_BACKGROUND": true
+}
